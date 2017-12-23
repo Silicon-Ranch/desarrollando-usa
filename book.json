@@ -1,6 +1,7 @@
 {
     "gitbook": "3.2.x",
     "title": "Desarrollando@US",
+    "description": "Compilacion de lo que necesitas saber siendo un desarrollando en US."
     "plugins": ["edit-link"],
     "pluginsConfig": {
             "edit-link": {
