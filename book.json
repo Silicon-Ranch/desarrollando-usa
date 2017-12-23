@@ -2,11 +2,19 @@
     "gitbook": "3.2.x",
     "title": "Desarrollando@US",
     "description": "Compilacion de lo que necesitas saber siendo un desarrollando en US.",
-    "plugins": ["edit-link"],
+    "plugins": ["edit-link", "github", "anchorjs"],
     "pluginsConfig": {
             "edit-link": {
                 "base": "https://github.com/siliconranch/desarrollando-usa/blob/master",
                 "label": "Editar Esta Pagina"
-            }
+            },
+            "anchorjs": {
+                "icon": "#",
+                "placement": "left",
+                "visible": "always"
+            },
+            "github": {
+                "url": "https://github.com/siliconranch/desarrollando-usa/"
+            },
     }
 }
