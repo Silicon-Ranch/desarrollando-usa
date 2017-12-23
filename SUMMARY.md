@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Visa](chapter1.md)
+* [Visa](visa.md)
 * [Auto](auto.md)
 * [Seguro Medico](seguro-medico.md)
 * [Apartament](departament.md)
