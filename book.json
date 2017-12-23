@@ -1,0 +1,10 @@
+{
+    "gitbook": "3.2.x",
+    "plugins": ["edit-link"],
+    "pluginsConfig": {
+            "edit-link": {
+                "base": "https://github.com/USER/REPO/edit/BRANCH/path/to/book",
+                "label": "Edit This Page"
+            }
+    }
+}
