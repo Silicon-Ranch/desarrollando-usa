@@ -8,5 +8,5 @@
 * [Salario](salario.md)
 * [Transporte Publico](transporte-publico.md)
 * [Escuela](escuela.md)
-* Tax
+* [Tax](tax.md)
 
