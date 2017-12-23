@@ -1,10 +1,11 @@
 {
     "gitbook": "3.2.x",
+    "title": "Desarrollando@US",
     "plugins": ["edit-link"],
     "pluginsConfig": {
             "edit-link": {
-                "base": "https://github.com/USER/REPO/edit/BRANCH/path/to/book",
-                "label": "Edit This Page"
+                "base": "https://github.com/siliconranch/desarrollando-usa",
+                "label": "Editar Esta Pagina"
             }
     }
 }
