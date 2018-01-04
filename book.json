@@ -5,11 +5,11 @@
     "plugins": ["edit-link", "github", "anchorjs"],
     "pluginsConfig": {
             "edit-link": {
-                "base": "https://github.com/siliconranch/desarrollando-usa/blob/master",
+                "base": "https://github.com/Silicon-Ranch/desarrollando-usa/blob/master",
                 "label": "Editar Esta Pagina"
             },
             "github": {
-                "url": "https://github.com/siliconranch/desarrollando-usa/"
+                "url": "https://github.com/Silicon-Ranch/desarrollando-usa/"
             }
     }
 }
